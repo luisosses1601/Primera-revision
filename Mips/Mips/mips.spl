@@ -1,0 +1,11 @@
+[Inputs]
+clk
+reset
+=instr[31:0]=
+=readdata[31:0]=
+[Outputs]
+memwrite
+=pc[31:0]=
+=aluout[31:0]=
+=writedata[31:0]=
+[BiDir]
